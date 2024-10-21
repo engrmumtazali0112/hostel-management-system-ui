@@ -1,4 +1,4 @@
-# 🚀 Hostel Managment System UI
+# 🚀 Hostel Management System UI
 ![GitHub last commit](https://img.shields.io/github/last-commit/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships)
 ![GitHub repo size](https://img.shields.io/github/repo-size/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships)
 ![GitHub stars](https://img.shields.io/github/stars/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships?style=social)
@@ -57,8 +57,11 @@ hostel-management-system-ui/
 <details>
 <summary>Click to view screenshots</summary>
 
-<img width="1875" alt="Dashboard" src="https://github.com/user-attachments/assets/826d05aa-1f70-44a3-a4c0-5b06e6f33192">
-![htmlcss](https://github.com/user-attachments/assets/bb67027b-0b2d-4440-9b13-f5ce570ea42c)
+![Dashboard](https://github.com/user-attachments/assets/826d05aa-1f70-44a3-a4c0-5b06e6f33192)
+
+![HTML and CSS Implementation](https://github.com/user-attachments/assets/bb67027b-0b2d-4440-9b13-f5ce570ea42c)
+
+
 </details>
 ## Installation and Usage
 
@@ -72,9 +75,7 @@ hostel-management-system-ui/
 - Integrate with a backend system for dynamic data
 - Expand the UI to cover all aspects of hostel management
 
-## Contributors
 
-- [Your Name]
 
 ## License
 
