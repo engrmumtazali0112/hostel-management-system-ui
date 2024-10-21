@@ -1,7 +1,9 @@
 # 🚀 Hostel Management System UI
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships)
 ![GitHub repo size](https://img.shields.io/github/repo-size/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships)
 ![GitHub stars](https://img.shields.io/github/stars/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships?style=social)
+
 This repository contains the user interface design and implementation for a Hostel Management System, developed as part of a Final Year Project.
 
 ## Project Overview
