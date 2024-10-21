@@ -30,11 +30,13 @@ hostel-management-system-ui/
 
 - Created a mockup design using Canva
 - The design focuses on a clean, intuitive dashboard for hostel management
-- Key features included: 
+- Key features included:
   - Sidebar navigation
   - Quick stats overview
   - Notice board
   - Calendar integration
+- [Go to See Mockup in Canva](https://www.canva.com/design/DAGUMpe0Gac/Neps8dKa96nJ6SWLYrqOjQ/view?utm_content=DAGUMpe0Gac&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ### Task #2: Convert PSD to HTML/CSS
 
@@ -80,17 +82,10 @@ hostel-management-system-ui/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-## 📬 Contact
 
-For any queries regarding the internship program or projects:
----
-
-<p align="center">Empowering Pakistan's digital future, one project at a time. 🇵🇰</p>
 ## 📞 Contact
 
 Mumtaz Ali - [engrmumtazali01@gmail.com](mailto:engrmumtazali01@gmail.com)
-
-
 
 <p align="center">
   <a href="mailto:engrmumtazali01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
